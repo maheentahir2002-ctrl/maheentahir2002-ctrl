@@ -1,6 +1,9 @@
 # Hi 👋 MAHEEN TAHIR
+
  AI/ML Developer | Python, Chatbots, Web Apps | CS Graduate
+ 
  💫 About Me:
+ 
 Based on your background as a Computer Science student working on AI, machine learning, networking, embedded systems, and software projects.<br><br>🔭 **I’m currently working on:**<br>AI & Machine Learning projects, Embedded Systems, and Full Stack Development while completing my Bachelor's in Computer Science.<br><br>👯 **I’m looking to collaborate on:**<br>Open-source AI/ML projects, Web Development, and innovative software solutions.<br><br>🤝 **I’m looking for help with:**<br>Advanced Machine Learning, Cloud Computing, and Software Architecture.<br><br>🌱 **I’m currently learning:**<br>Python, Java, C++, Deep Learning, Azure Cloud, and Software Defined Networking (SDN).<br><br>💬 **Ask me about:**<br>Python, Java, C++, AI/ML, Networking, Arduino, Database Management, and Software Development.<br><br>⚡ **Fun fact:**<br>I enjoy turning real-world problems into software solutions and am always eager to learn new technologies.<br>
 
 
